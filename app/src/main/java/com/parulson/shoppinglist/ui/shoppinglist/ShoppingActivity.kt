@@ -46,6 +46,6 @@ class ShoppingActivity : AppCompatActivity() {
             }).show()
         }
 
-        very bad day
+        commit checking
     }
 }
