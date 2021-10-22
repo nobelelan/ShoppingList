@@ -45,5 +45,7 @@ class ShoppingActivity : AppCompatActivity() {
                 }
             }).show()
         }
+
+        very bad day
     }
 }
