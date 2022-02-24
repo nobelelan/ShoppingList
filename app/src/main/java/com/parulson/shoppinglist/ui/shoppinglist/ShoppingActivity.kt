@@ -45,7 +45,5 @@ class ShoppingActivity : AppCompatActivity() {
                 }
             }).show()
         }
-
-        commit checking
     }
 }
